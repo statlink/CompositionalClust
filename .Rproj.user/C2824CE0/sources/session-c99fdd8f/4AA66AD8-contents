@@ -24,8 +24,9 @@ index_max <- function(y, mod) {
   Wg <- 0
   for ( i in 1:k )  Wg <- Wg + Rfast::cova(y[ina == i, ]) * ( ni[i] - 1)
   ind[19] <- k^2 * det(Wg)
-
+  })
   ## "Trace_WiB"
+  suppressWarnings({
   Bg <- Rfast::cova(y) * (n - 1) - Wg
   ind[24] <- sum( diag( solve(Wg, Bg) ) )
   })
