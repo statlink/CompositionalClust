@@ -13,8 +13,8 @@ Cluster analysis with compositional data using the \eqn{\alpha}--transformation.
 \tabular{ll}{
 Package: \tab CompositionalClust\cr
 Type: \tab Package\cr
-Version: \tab 1.2 \cr
-Date: \tab 2025-10-31\cr
+Version: \tab 1.3 \cr
+Date: \tab 2026-03-27\cr
 License: \tab GPL-2\cr
 }
 }
@@ -28,7 +28,9 @@ Michail Tsagris <mtsagris@uoc.gr>
 }
 
 \references{
-Tsagris M. and Kontemeniotis N. (2025). Simplicial clustering using the \eqn{\alpha}--transformation. https://arxiv.org/pdf/2509.05945.
+Tsagris M. and Kontemeniotis N. (2025). Simplicial clustering using the \eqn{\alpha}--transformation.
+Lobachevskii Journal of Mathematics (Accepted for publication).
+https://arxiv.org/pdf/2509.05945.
 
 Alenazi A. (2023). A review of compositional data analysis and recent advances.
 Communications in Statistics--Theory and Methods, 52(16): 5535--5567.

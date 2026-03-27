@@ -70,7 +70,9 @@ The estimated cluster membership values.
 }
 
 \references{
-Tsagris M. and Kontemeniotis N. (2025). Simplicial clustering using the \eqn{\alpha}--transformation. https://arxiv.org/pdf/2509.05945.
+Tsagris M. and Kontemeniotis N. (2025). Simplicial clustering using the \eqn{\alpha}--transformation.
+Lobachevskii Journal of Mathematics (Accepted for publication).
+https://arxiv.org/pdf/2509.05945.
 
 Ryan P. Browne, Aisha ElSherbiny and Paul D. McNicholas (2015). R package mixture: Mixture Models for Clustering and Classification.
 

@@ -9,9 +9,7 @@ importFrom("Rfast2", silhouette)
 importFrom("stats", kmeans)
 importFrom("factoextra", fviz_cluster)
 
-import("doParallel")
 import("parallel")
-import("foreach")
 
 exportPattern("^[[:alpha:]]+")
 exportPattern("^[^\\.]")

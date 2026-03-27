@@ -30,7 +30,9 @@ A plot.
 }
 
 \references{
-Tsagris M. and Kontemeniotis N. (2025). Simplicial clustering using the \eqn{\alpha}--transformation. https://arxiv.org/pdf/2509.05945.
+Tsagris M. and Kontemeniotis N. (2025). Simplicial clustering using the \eqn{\alpha}--transformation.
+Lobachevskii Journal of Mathematics (Accepted for publication).
+https://arxiv.org/pdf/2509.05945.
 
 Tsagris M.T., Preston S. and Wood A.T.A. (2011). A data-based power transformation
 for compositional data. In Proceedings of the 4th Compositional Data Analysis

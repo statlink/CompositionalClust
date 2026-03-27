@@ -57,7 +57,9 @@ If graph is set equal to TRUE a plot with the BIC of the best model for each num
 }
 
 \references{
-Tsagris M. and Kontemeniotis N. (2025). Simplicial clustering using the \eqn{\alpha}--transformation. https://arxiv.org/pdf/2509.05945.
+Tsagris M. and Kontemeniotis N. (2025). Simplicial clustering using the \eqn{\alpha}--transformation.
+Lobachevskii Journal of Mathematics (Accepted for publication).
+https://arxiv.org/pdf/2509.05945.
 
 Ryan P. Browne, Aisha ElSherbiny and Paul D. McNicholas (2018). mixture: Mixture Models for Clustering and Classification. R package version 1.5.
 
